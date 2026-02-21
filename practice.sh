@@ -27,4 +27,4 @@ echo "Files in this directory:"
 ls -l
 
 echo ""
-echo "line added from FEATURE1"
+echo "performing conflict from main again"

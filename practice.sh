@@ -25,3 +25,6 @@ pwd
 echo ""
 echo "Files in this directory:"
 ls -l
+
+echo ""
+echo "line added from FEATURE1"

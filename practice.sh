@@ -27,4 +27,4 @@ echo "Files in this directory:"
 ls -l
 
 echo ""
-echo "performing conflict from main again"
+echo "performing conflict from feature-1 again"

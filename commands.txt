@@ -1,0 +1,20 @@
+git clone <repo-url>
+git checkout <main-branch>
+git pull <remote-alias> <main-branch>
+
+git checkout -b <feature-branch>
+
+git status
+git add .
+git commit -m "<commit-message>"
+
+git checkout <main-branch>
+git pull <remote-alias> <main-branch>
+git checkout <feature-branch>
+git merge <main-branch>
+
+git push <remote-alias> <feature-branch>
+
+git checkout <main-branch>
+git pull <remote-alias> <main-branch>
+git branch -d <feature-branch>

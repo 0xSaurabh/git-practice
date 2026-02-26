@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added new line in test but not committed.
+=======
+this file is created in qa branch.
+>>>>>>> qa

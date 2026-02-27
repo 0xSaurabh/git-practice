@@ -1,6 +1,6 @@
 def health_check():
-    print("Application is running in QA environment.")
-    print("Health Status: OK")
+    print("app is running in qa env.")
+    print("health status: ok")
 
 if __name__ == "__main__":
     health_check()

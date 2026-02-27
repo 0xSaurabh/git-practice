@@ -1,4 +1,4 @@
 added new line in test but not committed.
 this file is created in qa branch.
 
-note: merged test and qa branches
+note: merged test and qa branches.

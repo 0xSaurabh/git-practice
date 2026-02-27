@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Application is running in C++ environment." << std::endl;
-    std::cout << "Health Status: OK" << std::endl;
+    std::cout << "app is running in c++ env." << std::endl;
+    std::cout << "health status: ok" << std::endl;
     return 0;
 }
